@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/FoodOrderApp-udemy/static/css/main.39d5561f.css",
-    "main.js": "/FoodOrderApp-udemy/static/js/main.cd55ea05.js",
-    "index.html": "/FoodOrderApp-udemy/index.html",
-    "main.39d5561f.css.map": "/FoodOrderApp-udemy/static/css/main.39d5561f.css.map",
-    "main.cd55ea05.js.map": "/FoodOrderApp-udemy/static/js/main.cd55ea05.js.map"
+    "main.css": "/foodapp/static/css/main.39d5561f.css",
+    "main.js": "/foodapp/static/js/main.cd55ea05.js",
+    "index.html": "/foodapp/index.html",
+    "main.39d5561f.css.map": "/foodapp/static/css/main.39d5561f.css.map",
+    "main.cd55ea05.js.map": "/foodapp/static/js/main.cd55ea05.js.map"
   },
   "entrypoints": [
     "static/css/main.39d5561f.css",
